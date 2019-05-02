@@ -1,11 +1,11 @@
 
 Web socket server that streams tweets about a particular topic
 
-#Install
+# Install
 
 `npm install`
 
-#Run 
+# Run 
 
 `npm start`
 
